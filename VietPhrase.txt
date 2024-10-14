@@ -1,3 +1,6 @@
+一萬=một vạn
+修為=tu vi
+在了=tại đây
 巔峰=đỉnh phong
 從此=từ nay trở đi
 極致=cực hạn
@@ -15861,7 +15864,7 @@
 土=đất/thổ/thổ nhưỡng
 圢=đinh
 圣=thánh/thiêng liêng
-在=tại/ở/Ari/trong/tồn tại/sinh tồn/sống
+在=đang/tại/ở/Ari/trong/tồn tại/sinh tồn/sống
 圩=vu/này/chợ/họp chợ
 圪=khất/tôi/gò đất nhỏ
 圬=ô/này/bay/cái bay
