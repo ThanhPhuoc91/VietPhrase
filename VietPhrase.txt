@@ -1,4 +1,18 @@
-﻿一下=một chút/một phát/một lát/một tý/một cái/vừa hạ/thoáng cái/một lần/thoáng một phát/thử xem/bỗng chốc/một thoáng
+巔峰=đỉnh phong
+從此=từ nay trở đi
+極致=cực hạn
+歷經=trải qua
+滿是=tràn đầy
+環宇=vũ trụ
+磨難=gian nan
+等這=chờ ở đây
+籠罩=bao phủ
+臉頰=gương mặt
+著=rõ
+說=nói
+逐漸=dần dần
+頭頂=đỉnh đầu
+一下=một chút/một phát/một lát/một tý/một cái/vừa hạ/thoáng cái/một lần/thoáng một phát/thử xem/bỗng chốc/một thoáng
 一世=một đời/một thế/Issei/cả đời
 一丝=một chút
 一两=một hai
@@ -15854,7 +15868,7 @@
 圭=khuê/Kei/Guy/Khuê/ngọc khuê
 圮=tổn thương/anh/huỷ hoại/đổ vỡ/sụp đổ
 圯=di/này/cây cầu/cái cầu
-地=địa/mà/đất/mặt đất/trái đất/địa cầu/vỏ quả đất
+地=mà/địa/đất/mặt đất/trái đất/địa cầu/vỏ quả đất
 圳=quyến/này/kênh/mương/ao
 圹=khoáng/khoảng/này/huyệt/hố/hầm/mồ/mộ/mả
 场=trường/sân/tràng/lĩnh vực/nơi/bãi
@@ -16737,8 +16751,8 @@
 巉=sàm/i/cheo leo hiểm trở
 巍=nguy/sừng sững/đồ sộ
 巎=nao/Nao Nao
-巓=điên/đỉnh núi
-巔=điên/yo
+巓=đỉnh/điên/đỉnh núi
+巔=đỉnh/điên/yo
 巕=nghiệt
 巖=nham/yo
 巘=nghiễn/bưu
@@ -17006,7 +17020,7 @@
 徉=dương/Yō/yo/dạo chơi/rong chơi
 徊=hồi/đi lang thang/quanh quẩn/lưu luyến
 律=luật/Ritsu/pháp luật/quy tắc
-後=sau/hậu/sau đó
+後=về sau/sau/hậu/sau đó
 徍=vong/nhầy/bầy nhầy
 徐=Từ/Xu/chầm chậm/từ từ
 徒=đồ/uổng phí/Ganto/không có gì/bộ hành/đi bộ
@@ -25401,7 +25415,7 @@
 麸=phu/cám/trấu cám
 麹=đến nỗi/mến/men
 麻=tê/ma/tê dại/Asa/đay/gai
-麼=ma/bưu/bẽo
+麼=sao/ma/bưu/bẽo
 麽=sao/vậy
 麾=huy/dưới trướng/cờ chỉ huy
 黀=tưu/thân cây gai dầu
