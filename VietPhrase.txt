@@ -16120,7 +16120,7 @@
 夣=mộng/ti/mọng/mọng nước/chín mọng
 夤=di/anh/kính nể/kính sợ/tôn trọng
 夥=khoả/hỏa/khỏa/xin lỗi
-大=lớn/Dai/Hiroshi/Masaru/Ooki/Shin/to/rộng
+大=đại/lớn/Dai/Hiroshi/Masaru/Ooki/Shin/to/rộng
 天=trời/thiên/Amatsu/He/Sora/Takashi/Ten/Tian/Wu/ngày/không trung/bầu trời
 太=quá/Futoshi/Tai/cao/lớn/to lớn
 夫=phu/chồng/ông xã
@@ -18012,7 +18012,7 @@
 昜=dương/yo/tươi sáng, vinh quang
 昝=tảm/yo/họ Tảm
 昞=bỉnh/yo
-星=sao/tinh/Akari/Hoshi/Kiara/Sei/Shō/Star/Stella/Xing/ngôi sao
+星=tinh/sao/Akari/Hoshi/Kiara/Sei/Shō/Star/Stella/Xing/ngôi sao
 映=ánh/chiếu/Akira/Ei/ánh sáng
 昡=huyền/đà lạt/ánh mặt trời
 春=xuân/Haru/Hoshino Haru/Kiyoharu/Shun/Yan/mùa xuân/(nghĩa đen và nghĩa bóng)/lạc thú
